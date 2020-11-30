@@ -1,9 +1,14 @@
+.Provider {
+  display: flex;
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
   height: 40vmin;
+  margin-bottom: 1rem;
   pointer-events: none;
 }
 

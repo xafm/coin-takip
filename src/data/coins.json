@@ -1,0 +1,14 @@
+[
+{"symbol": "CELRUSDT", "buyPrice": 0.00589, "buyDate": "2020-11-29 16:28:21", "sellDate": ""},
+{"symbol": "ARPAUSDT", "buyPrice": 0.02400, "buyDate": "2020-11-29 15:33:57", "sellDate": ""},
+{"symbol": "UNIUSDT",  "buyPrice": 3.4400,  "sellPrice": 3.5040, "buyDate": "2020-11-29 13:10:36", "sellDate": "2020-11-29 17:34:23"},
+{"symbol": "ALGOUSDT", "buyPrice": 0.3200,  "sellPrice": 0.3220, "buyDate": "2020-11-29 12:50:55", "sellDate": "2020-11-29 17:02:36"},
+{"symbol": "XTZUSDT",  "buyPrice": 2.38,    "sellPrice": 2.39,   "buyDate": "2020-11-28 16:39:09", "sellDate": "2020-11-28 19:34:57"},
+{"symbol": "CHRUSDT",  "buyPrice": 0.02631, "sellPrice": 0.0268, "buyDate": "2020-11-28 13:22:04", "sellDate": "2020-11-28 20:41:35"},
+{"symbol": "FLMUSDT",  "buyPrice": 0.18,    "sellPrice": 0.19,   "buyDate": "2020-11-28 12:59:24", "sellDate": "2020-11-28 19:32:59"},
+{"symbol": "ANKRUSDT", "buyPrice": 0.00892, "sellPrice": 0.0094, "buyDate": "2020-11-28 12:04:21", "sellDate": "2020-11-29 10:18:30"},
+{"symbol": "TRBUSDT",  "buyPrice": 23.043,  "sellPrice": 25.098, "buyDate": "2020-11-28 11:45:58", "sellDate": "2020-11-28 20:20:35"},
+{"symbol": "PAXGBTC",  "buyPrice": 0.19000,    "buyDate": "2020-09-13 21:52:48"},
+{"symbol": "BNTBTC",   "buyPrice": 0.00016135, "buyDate": "2020-08-27 17:01:46"},
+{"symbol": "COSBTC",   "buyPrice": 0.00000105, "buyDate": "2020-07-21 22:11:33"}
+]
