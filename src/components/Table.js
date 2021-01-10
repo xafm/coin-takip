@@ -14,6 +14,7 @@ function Table({data}) {
             <th>Değişim %</th>
             <th>Satış Fiyatı</th>
             <th>Kar/Zarar</th>
+            <th>Geçen Süre</th>
           </tr>
         </thead>
         <tbody>
@@ -24,6 +25,8 @@ function Table({data}) {
               buyPrice={coin.buyPrice}
               price={coin.price}
               sellPrice={coin.sellPrice}
+              buyDate={coin.buyDate}
+              sellDate={coin.sellDate}
             />
           ))}
         </tbody>

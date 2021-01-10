@@ -1,4 +1,7 @@
 [
+{"symbol": "AXSUSDT",  "buyPrice": 0.43000, "sellPrice": 0.45500, "buyDate": "2020-12-02 12:36:50", "sellDate": "2020-12-02 17:14:03"},
+{"symbol": "CRVUSDT",  "buyPrice": 0.690,   "sellPrice": 0.775,   "buyDate": "2020-12-01 18:52:34", "sellDate": "2020-12-02 12:07:39"},
+{"symbol": "XVSUSDT",  "buyPrice": 3.200,   "buyDate": "2020-12-01 11:32:08", "sellDate": ""},
 {"symbol": "CELRUSDT", "buyPrice": 0.00589, "buyDate": "2020-11-29 16:28:21", "sellDate": ""},
 {"symbol": "ARPAUSDT", "buyPrice": 0.02400, "buyDate": "2020-11-29 15:33:57", "sellDate": ""},
 {"symbol": "UNIUSDT",  "buyPrice": 3.4400,  "sellPrice": 3.5040, "buyDate": "2020-11-29 13:10:36", "sellDate": "2020-11-29 17:34:23"},

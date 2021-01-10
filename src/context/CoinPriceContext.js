@@ -1,5 +1,5 @@
 import createDataContext from './createDataContext';
-import data from '../data/coins.json' 
+import coins from '../data/coin.js' 
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -18,7 +18,7 @@ const onPriceChange = dispatch => (coin, price) => {
 const {Context, Provider} = createDataContext(
   reducer,
   {onPriceChange},
-  data
+  coins
 );
 
 export {Context, Provider};
