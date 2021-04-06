@@ -2,7 +2,7 @@
 
 ## Çalıştırmak için
 
-- `/src/data/coins.js dosyasına bilgileri girin`
+- `/src/data/coin.js dosyasına bilgileri girin`
 - `npm install`
 - `npm start`
 
